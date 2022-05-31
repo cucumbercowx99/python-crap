@@ -1,2 +1,2 @@
 # python-crap
-a place where i put all my buggy, messy and probably nonworking python code
+A place where I put all my buggy, messy and probably nonworking python code. Not many of these programs are remotely usable or functional whatsoever. This is just a folder where I dump python files that I am either currently working on or have worked on in the past.
